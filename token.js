@@ -1,0 +1,1 @@
+export default token = 'sk.eyJ1Ijoic2F6emVycGxheWVyIiwiYSI6ImNqdHIyNGg1bDBmd2czeW1yNmh0ajVwaHQifQ.BmrkJALtlGvxi4aT78dq1g';
